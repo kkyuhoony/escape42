@@ -1,6 +1,6 @@
 name: Jekyll Themes      
 theme:jekyll-theme-42
-baseurl:"/"
+baseurl: “/”
 url: "http://matt.harzewski.com"  
 description: Insert tagline here
 
