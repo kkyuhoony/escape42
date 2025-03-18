@@ -1,6 +1,6 @@
 name: Jekyll Themes      
 baseurl:"/"
-url: "http://matt.harzewski.com"  
+url: "http:/the-mvm.github.io"  
 description: Insert tagline here
 
 permalink: /themes/:title/  
